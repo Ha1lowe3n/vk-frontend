@@ -17,3 +17,17 @@ code {
     box-sizing: border-box;
 }
 
+li {
+    list-style-type: none;
+}
+
+textarea:focus,
+input:focus {
+    outline: none;
+}
+
+.container {
+    width: 990px;
+    height: inherit;
+    margin: 0 auto;
+}

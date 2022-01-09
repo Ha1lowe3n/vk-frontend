@@ -1,0 +1,81 @@
+@mixin flex-items-center {
+    display: flex;
+    align-items: center;
+}
+
+.header {
+    height: 48px;
+    width: 100%;
+    position: sticky;
+    top: 0;
+    background-color: #ffffff;
+    border-bottom: 1px solid #e7e8ec;
+
+    .list {
+        @include flex-items-center;
+        height: inherit;
+
+        li {
+            height: inherit;
+        }
+
+        .logo {
+            width: 165px;
+            @include flex-items-center;
+            cursor: pointer;
+        }
+
+        .input {
+            padding-right: 15px;
+            @include flex-items-center;
+        }
+
+        .bell {
+            cursor: pointer;
+        }
+
+        .musicPlayer {
+            width: 386px;
+        }
+
+        .rightSide {
+            display: flex;
+
+            .catalogWrapper {
+                height: 100%;
+                width: 48px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                cursor: pointer;
+
+                &:hover {
+                    background-color: var(--color-green-hover);
+                }
+            }
+
+            .profileWrapper {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                padding-left: 10px;
+                cursor: pointer;
+
+                img {
+                    border-radius: 50%;
+                    height: 32px;
+                    width: 32px;
+                }
+
+                .arrow {
+                    margin: 0 8px 0 6px;
+                    color: #aeb7c2;
+                }
+
+                &:hover {
+                    background-color: var(--color-green-hover);
+                }
+            }
+        }
+    }
+}

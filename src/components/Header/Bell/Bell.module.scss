@@ -1,0 +1,13 @@
+.wrapper {
+    height: 48px;
+    width: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #6f7985;
+    opacity: 0.9;
+
+    &:hover {
+        background-color: var(--color-green-hover);
+    }
+}
