@@ -1,7 +1,15 @@
 import React from "react";
 
-function App() {
-    return <div className="App">hello vk clone</div>;
-}
+import "./styles/app.scss";
+
+import ProfilePage from "./pages/profile";
+
+const App: React.FC = () => {
+    return (
+        <div className="app">
+            <ProfilePage />
+        </div>
+    );
+};
 
 export default App;
