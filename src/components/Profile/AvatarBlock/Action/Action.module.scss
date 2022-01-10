@@ -1,0 +1,24 @@
+@import "../../../../styles/variables";
+
+.action {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    height: 36px;
+    cursor: pointer;
+    padding: 0 16px;
+
+    svg {
+        margin-right: 10px;
+        color: #818c99;
+    }
+
+    span {
+        font-size: 13px;
+        color: #626d7a;
+    }
+
+    &:hover {
+        background-color: var(--color-gray-hover);
+    }
+}

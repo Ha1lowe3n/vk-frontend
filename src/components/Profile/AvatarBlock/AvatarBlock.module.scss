@@ -1,0 +1,29 @@
+.avatarBlock {
+    a {
+        display: block;
+        margin-top: 10px;
+        text-align: center;
+        background-color: #e5ebf1;
+        cursor: pointer;
+        border-radius: 4px;
+        width: 100%;
+        height: 30px;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        span {
+            font-size: 13px;
+            color: #55677d;
+        }
+
+        &:hover {
+            background-color: #dae2ea;
+        }
+    }
+
+    .actions {
+        margin: 12px -16px 0 -16px;
+    }
+}

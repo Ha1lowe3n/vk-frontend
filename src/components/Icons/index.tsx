@@ -10,3 +10,7 @@ export { default as NavbarNewsIcon } from "./NavbarNewsIcon";
 export { default as NavbarMessageIcon } from "./NavbarMessageIcon";
 export { default as NavbarCallIcon } from "./NavbarCallIcon";
 export { default as NavbarFriendsIcon } from "./NavbarFriendsIcon";
+export { default as ProfileAvatarBlockStatisticIcon } from "./ProfileAvatarBlockStatisticIcon";
+export { default as ProfileAvatarBlockMemoriesIcon } from "./ProfileAvatarBlockMemoriesIcon";
+export { default as ProfileAvatarBlockStoryArchiveIcon } from "./ProfileAvatarBlockStoryArchiveIcon";
+export { default as ProfileAvatarBlockMoneyIcon } from "./ProfileAvatarBlockMoneyIcon";

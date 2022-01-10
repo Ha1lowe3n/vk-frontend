@@ -2,7 +2,7 @@ import React from "react";
 
 import "./styles/app.scss";
 
-import ProfilePage from "./pages/profile";
+import ProfilePage from "./pages/Profile/Profile";
 
 const App: React.FC = () => {
     return (
