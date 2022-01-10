@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 
 import styles from "./Header.module.scss";
 
@@ -8,6 +8,9 @@ import { Bell } from "./Bell/Bell";
 import { MusicPlayer } from "./MusicPlayer/MusicPlayer";
 
 export const Header: React.FC = () => {
+    const [play, setPlay] = useState<boolean>(false);
+
+    const togglePlay = () => setPlay(!play);
     return (
         <header className={styles.header}>
             <div className="container">
@@ -22,7 +25,11 @@ export const Header: React.FC = () => {
                         <Bell />
                     </li>
                     <li className={styles.musicPlayer}>
-                        <MusicPlayer />
+                        <MusicPlayer
+                            play={play}
+                            trackTitle={"hello"}
+                            togglePlay={togglePlay}
+                        />
                     </li>
                     <li className={styles.rightSide}>
                         <div className={styles.catalogWrapper}>

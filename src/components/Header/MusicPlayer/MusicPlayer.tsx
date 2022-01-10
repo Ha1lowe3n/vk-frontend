@@ -5,25 +5,36 @@ import styles from "./MusicPlayer.module.scss";
 import {
     MusicPlayerArrowLeftIcon,
     MusicPlayerArrowRightIcon,
+    MusicPlayerPauseIcon,
     MusicPlayerPlayIcon,
 } from "../../Icons";
 
-export const MusicPlayer: React.FC = () => {
+interface MusicPlayerPropsType {
+    play: boolean;
+    trackTitle: string;
+    togglePlay: () => void;
+}
+
+export const MusicPlayer: React.FC<MusicPlayerPropsType> = ({
+    play,
+    trackTitle,
+    togglePlay,
+}) => {
     return (
         <div className={styles.wrapper}>
             <div className={styles.btns}>
                 <button>
                     <MusicPlayerArrowLeftIcon />
                 </button>
-                <button>
-                    <MusicPlayerPlayIcon />
+                <button onClick={togglePlay}>
+                    {!play ? <MusicPlayerPlayIcon /> : <MusicPlayerPauseIcon />}
                 </button>
                 <button>
                     <MusicPlayerArrowRightIcon />
                 </button>
             </div>
 
-            <div className={styles.title}>Fame On Fire — Old Town Road</div>
+            <div className={styles.title}>{trackTitle}</div>
         </div>
     );
 };

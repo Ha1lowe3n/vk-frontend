@@ -10,12 +10,13 @@
     .btns {
         width: 85px;
         display: flex;
+        align-items: center;
         justify-content: space-between;
 
         button {
             cursor: pointer;
             color: #99a2ad;
-            margin-top: 5px;
+            height: 24px;
             background: 0;
             border: 0;
         }
