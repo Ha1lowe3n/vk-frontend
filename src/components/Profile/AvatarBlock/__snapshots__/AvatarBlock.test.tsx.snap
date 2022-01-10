@@ -1,0 +1,298 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AvatarBlock snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="whiteBlock"
+        style="padding: 15px 15px 6px 15px;"
+      >
+        <div
+          class="avatarBlock"
+        >
+          <img
+            alt="avatar"
+            src="https://sun1-90.userapi.com/s/v1/ig2/PmrlLYxn--gSMoo1nUfMITCVY5wYz-djtcuXV4y5tUmQjTAul3ir7cyU7zB9EtunB8Ts-eTLH7ojCrQ_LNMCNM5T.jpg?size=200x229&quality=96&crop=0,0,624,717&ava=1"
+          />
+          <a
+            href="#"
+          >
+            <span>
+              Edit
+            </span>
+          </a>
+          <div
+            class="actions"
+          >
+            <div
+              class="action"
+            >
+              <svg
+                fill="none"
+                height="24"
+                width="24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  clip-rule="evenodd"
+                  d="M2.1 19a.9.9 0 01.9-.9h18a.9.9 0 110 1.8H3a.9.9 0 01-.9-.9zM16.5 5.9a.9.9 0 110-1.8H21a.9.9 0 01.9.9v4.5a.9.9 0 11-1.8 0V7.17l-5.96 5.97a.9.9 0 01-1.28 0L9.5 9.77l-5.86 5.87a.9.9 0 11-1.28-1.28l6.5-6.5a.9.9 0 011.28 0l3.36 3.37 5.33-5.33z"
+                  fill="currentColor"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <span>
+                Page statistics
+              </span>
+            </div>
+            <div
+              class="action"
+            >
+              <svg
+                fill="none"
+                height="24"
+                width="24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <g
+                  fill="currentColor"
+                >
+                  <path
+                    clip-rule="evenodd"
+                    d="M12 7.1a.9.9 0 01.9.9v3.73l2.24 2.23a.9.9 0 11-1.28 1.28l-2.5-2.5a.9.9 0 01-.26-.64V8a.9.9 0 01.9-.9z"
+                    fill-rule="evenodd"
+                  />
+                  <path
+                    d="M19 5a9.87 9.87 0 00-7-2.9 9.87 9.87 0 00-7.1 3V3a.9.9 0 00-1.8 0v4a.9.9 0 00.9.9h4a.9.9 0 000-1.8H6.45A8.07 8.07 0 0112 3.9c2.24 0 4.26.9 5.73 2.37A8.07 8.07 0 0120.1 12c0 2.24-.9 4.26-2.37 5.73A8.07 8.07 0 0112 20.1a8.06 8.06 0 01-5.2-1.9.9.9 0 00-1.16 1.39A9.86 9.86 0 0012 21.9a9.87 9.87 0 009.9-9.9c0-2.73-1.1-5.21-2.9-7z"
+                  />
+                </g>
+              </svg>
+              <span>
+                Memories
+              </span>
+            </div>
+            <div
+              class="action"
+            >
+              <svg
+                fill="none"
+                height="24"
+                width="24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <g
+                  clip-rule="evenodd"
+                  fill="currentColor"
+                  fill-rule="evenodd"
+                >
+                  <path
+                    d="M9.1 13.4a.9.9 0 01.9-.9h4a.9.9 0 110 1.8h-4a.9.9 0 01-.9-.9z"
+                  />
+                  <path
+                    d="M5 3.1A2.9 2.9 0 002.1 6v2c0 1.11.93 1.9 2 1.9V18A2.9 2.9 0 007 20.9h10a2.9 2.9 0 002.9-2.9V9.9c1.07 0 2-.79 2-1.9V6A2.9 2.9 0 0019 3.1zm0 1.8A1.1 1.1 0 003.9 6v2a.1.1 0 00.1.1h16a.1.1 0 00.1-.1V6A1.1 1.1 0 0019 4.9zm2 14.2A1.1 1.1 0 015.9 18V9.9h12.2V18a1.1 1.1 0 01-1.1 1.1z"
+                  />
+                  <path
+                    d="M10 12.5a.9.9 0 100 1.8h4a.9.9 0 000-1.8z"
+                  />
+                </g>
+              </svg>
+              <span>
+                Story archive
+              </span>
+            </div>
+            <div
+              class="action"
+            >
+              <svg
+                fill="none"
+                height="24"
+                width="24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M17.8 3.1a4.5 4.5 0 012.35.44 3.17 3.17 0 011.31 1.31c.3.57.42 1.11.44 2.1V12a.9.9 0 01-1.8.11V8.9H3.9v5.9c0 .87.06 1.18.23 1.5.13.25.32.44.57.57.3.16.58.22 1.31.23H18.83l-1.47-1.46a.9.9 0 01-.08-1.18l.08-.1a.9.9 0 011.18-.08l.1.08 3 3a.9.9 0 01.08 1.18l-.08.1-3 3a.9.9 0 01-1.36-1.18l.08-.1 1.47-1.46H6.2c-1.07 0-1.65-.1-2.21-.37l-.14-.07a3.17 3.17 0 01-1.32-1.31 4.2 4.2 0 01-.44-2.1V7.21c0-1.16.11-1.74.44-2.35a3.17 3.17 0 011.31-1.32c.57-.3 1.11-.42 2.1-.44h.25zm0 1.8H6.2c-.88 0-1.18.06-1.5.23-.25.13-.44.32-.57.57-.16.3-.22.58-.23 1.31v.09h16.2v-.09c-.01-.73-.07-1.02-.23-1.3a1.37 1.37 0 00-.57-.58c-.3-.16-.58-.22-1.31-.23z"
+                  fill="currentColor"
+                />
+              </svg>
+              <span>
+                Money transfers
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="whiteBlock"
+      style="padding: 15px 15px 6px 15px;"
+    >
+      <div
+        class="avatarBlock"
+      >
+        <img
+          alt="avatar"
+          src="https://sun1-90.userapi.com/s/v1/ig2/PmrlLYxn--gSMoo1nUfMITCVY5wYz-djtcuXV4y5tUmQjTAul3ir7cyU7zB9EtunB8Ts-eTLH7ojCrQ_LNMCNM5T.jpg?size=200x229&quality=96&crop=0,0,624,717&ava=1"
+        />
+        <a
+          href="#"
+        >
+          <span>
+            Edit
+          </span>
+        </a>
+        <div
+          class="actions"
+        >
+          <div
+            class="action"
+          >
+            <svg
+              fill="none"
+              height="24"
+              width="24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M2.1 19a.9.9 0 01.9-.9h18a.9.9 0 110 1.8H3a.9.9 0 01-.9-.9zM16.5 5.9a.9.9 0 110-1.8H21a.9.9 0 01.9.9v4.5a.9.9 0 11-1.8 0V7.17l-5.96 5.97a.9.9 0 01-1.28 0L9.5 9.77l-5.86 5.87a.9.9 0 11-1.28-1.28l6.5-6.5a.9.9 0 011.28 0l3.36 3.37 5.33-5.33z"
+                fill="currentColor"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <span>
+              Page statistics
+            </span>
+          </div>
+          <div
+            class="action"
+          >
+            <svg
+              fill="none"
+              height="24"
+              width="24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <g
+                fill="currentColor"
+              >
+                <path
+                  clip-rule="evenodd"
+                  d="M12 7.1a.9.9 0 01.9.9v3.73l2.24 2.23a.9.9 0 11-1.28 1.28l-2.5-2.5a.9.9 0 01-.26-.64V8a.9.9 0 01.9-.9z"
+                  fill-rule="evenodd"
+                />
+                <path
+                  d="M19 5a9.87 9.87 0 00-7-2.9 9.87 9.87 0 00-7.1 3V3a.9.9 0 00-1.8 0v4a.9.9 0 00.9.9h4a.9.9 0 000-1.8H6.45A8.07 8.07 0 0112 3.9c2.24 0 4.26.9 5.73 2.37A8.07 8.07 0 0120.1 12c0 2.24-.9 4.26-2.37 5.73A8.07 8.07 0 0112 20.1a8.06 8.06 0 01-5.2-1.9.9.9 0 00-1.16 1.39A9.86 9.86 0 0012 21.9a9.87 9.87 0 009.9-9.9c0-2.73-1.1-5.21-2.9-7z"
+                />
+              </g>
+            </svg>
+            <span>
+              Memories
+            </span>
+          </div>
+          <div
+            class="action"
+          >
+            <svg
+              fill="none"
+              height="24"
+              width="24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <g
+                clip-rule="evenodd"
+                fill="currentColor"
+                fill-rule="evenodd"
+              >
+                <path
+                  d="M9.1 13.4a.9.9 0 01.9-.9h4a.9.9 0 110 1.8h-4a.9.9 0 01-.9-.9z"
+                />
+                <path
+                  d="M5 3.1A2.9 2.9 0 002.1 6v2c0 1.11.93 1.9 2 1.9V18A2.9 2.9 0 007 20.9h10a2.9 2.9 0 002.9-2.9V9.9c1.07 0 2-.79 2-1.9V6A2.9 2.9 0 0019 3.1zm0 1.8A1.1 1.1 0 003.9 6v2a.1.1 0 00.1.1h16a.1.1 0 00.1-.1V6A1.1 1.1 0 0019 4.9zm2 14.2A1.1 1.1 0 015.9 18V9.9h12.2V18a1.1 1.1 0 01-1.1 1.1z"
+                />
+                <path
+                  d="M10 12.5a.9.9 0 100 1.8h4a.9.9 0 000-1.8z"
+                />
+              </g>
+            </svg>
+            <span>
+              Story archive
+            </span>
+          </div>
+          <div
+            class="action"
+          >
+            <svg
+              fill="none"
+              height="24"
+              width="24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M17.8 3.1a4.5 4.5 0 012.35.44 3.17 3.17 0 011.31 1.31c.3.57.42 1.11.44 2.1V12a.9.9 0 01-1.8.11V8.9H3.9v5.9c0 .87.06 1.18.23 1.5.13.25.32.44.57.57.3.16.58.22 1.31.23H18.83l-1.47-1.46a.9.9 0 01-.08-1.18l.08-.1a.9.9 0 011.18-.08l.1.08 3 3a.9.9 0 01.08 1.18l-.08.1-3 3a.9.9 0 01-1.36-1.18l.08-.1 1.47-1.46H6.2c-1.07 0-1.65-.1-2.21-.37l-.14-.07a3.17 3.17 0 01-1.32-1.31 4.2 4.2 0 01-.44-2.1V7.21c0-1.16.11-1.74.44-2.35a3.17 3.17 0 011.31-1.32c.57-.3 1.11-.42 2.1-.44h.25zm0 1.8H6.2c-.88 0-1.18.06-1.5.23-.25.13-.44.32-.57.57-.16.3-.22.58-.23 1.31v.09h16.2v-.09c-.01-.73-.07-1.02-.23-1.3a1.37 1.37 0 00-.57-.58c-.3-.16-.58-.22-1.31-.23z"
+                fill="currentColor"
+              />
+            </svg>
+            <span>
+              Money transfers
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
