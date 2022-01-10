@@ -10,6 +10,7 @@
     top: 0;
     background-color: #ffffff;
     border-bottom: 1px solid #e7e8ec;
+    margin-bottom: 15px;
 
     .list {
         @include flex-items-center;
@@ -50,7 +51,7 @@
                 cursor: pointer;
 
                 &:hover {
-                    background-color: var(--color-green-hover);
+                    background-color: var(--color-gray-hover);
                 }
             }
 
@@ -75,7 +76,7 @@
                 }
 
                 &:hover {
-                    background-color: var(--color-green-hover);
+                    background-color: var(--color-gray-hover);
                 }
             }
         }

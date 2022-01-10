@@ -9,7 +9,7 @@ const LogoIcon: React.FC = () => {
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
         >
-            <g clip-path="url(#logo_vk_snow_color_30__clip0_875_3554)">
+            <g clipPath="url(#logo_vk_snow_color_30__clip0_875_3554)">
                 <path
                     d="M0 14.39C0 7.6 0 4.2 2.1 2.09 4.2 0 7.57 0 14.4 0h1.2c6.77 0 10.16 0 12.3 2.1C30.04 4.2 30 7.57 30 14.39v1.2c0 6.78 0 10.17-2.1 12.31-2.1 2.15-5.5 2.1-12.3 2.1h-1.22C7.6 30 4.21 30 2.1 27.9-.02 25.8 0 22.38 0 15.6v-1.2z"
                     fill="#07F"

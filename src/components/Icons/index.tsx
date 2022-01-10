@@ -5,3 +5,8 @@ export { default as MusicPlayerPlayIcon } from "./MusicPlayerPlayIcon";
 export { default as MusicPlayerPauseIcon } from "./MusicPlayerPauseIcon";
 export { default as MusicPlayerArrowRightIcon } from "./MusicPlayerArrowRightIcon";
 export { default as ProfileSettingsArrowIcon } from "./ProfileSettingsArrowIcon";
+export { default as NavbarProfileIcon } from "./NavbarProfileIcon";
+export { default as NavbarNewsIcon } from "./NavbarNewsIcon";
+export { default as NavbarMessageIcon } from "./NavbarMessageIcon";
+export { default as NavbarCallIcon } from "./NavbarCallIcon";
+export { default as NavbarFriendsIcon } from "./NavbarFriendsIcon";

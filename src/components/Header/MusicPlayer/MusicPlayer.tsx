@@ -22,19 +22,25 @@ export const MusicPlayer: React.FC<MusicPlayerPropsType> = ({
 }) => {
     return (
         <div className={styles.wrapper}>
-            <div className={styles.btns}>
-                <button>
-                    <MusicPlayerArrowLeftIcon />
-                </button>
-                <button onClick={togglePlay}>
-                    {!play ? <MusicPlayerPlayIcon /> : <MusicPlayerPauseIcon />}
-                </button>
-                <button>
-                    <MusicPlayerArrowRightIcon />
-                </button>
-            </div>
+            <div className={styles.content}>
+                <div className={styles.btns}>
+                    <button>
+                        <MusicPlayerArrowLeftIcon />
+                    </button>
+                    <button onClick={togglePlay}>
+                        {!play ? (
+                            <MusicPlayerPlayIcon />
+                        ) : (
+                            <MusicPlayerPauseIcon />
+                        )}
+                    </button>
+                    <button>
+                        <MusicPlayerArrowRightIcon />
+                    </button>
+                </div>
 
-            <div className={styles.title}>{trackTitle}</div>
+                <div className={styles.title}>{trackTitle}</div>
+            </div>
         </div>
     );
 };

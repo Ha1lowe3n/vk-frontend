@@ -11,9 +11,9 @@ const MusicPlayerPauseIcon: React.FC = () => {
             <g
                 id="pause_24__Page-2"
                 stroke="none"
-                stroke-width="1"
+                strokeWidth="1"
                 fill="none"
-                fill-rule="evenodd"
+                fillRule="evenodd"
             >
                 <g id="pause_24__pause_24">
                     <path id="pause_24__Rectangle-737" d="M0 0h24v24H0z"></path>

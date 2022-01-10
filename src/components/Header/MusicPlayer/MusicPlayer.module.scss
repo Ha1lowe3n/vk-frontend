@@ -1,31 +1,41 @@
 .wrapper {
-    padding: 0 20px 0 8px;
     max-width: 342px;
     width: auto;
     height: inherit;
     display: flex;
     align-items: center;
-    justify-content: flex-start;
 
-    .btns {
-        width: 85px;
+    .content {
+        padding: 0 20px 0 8px;
         display: flex;
         align-items: center;
-        justify-content: space-between;
+        justify-content: flex-start;
+        height: inherit;
 
-        button {
-            cursor: pointer;
-            color: #99a2ad;
-            height: 24px;
-            background: 0;
-            border: 0;
+        .btns {
+            width: 85px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+
+            button {
+                cursor: pointer;
+                color: #99a2ad;
+                height: 24px;
+                background: 0;
+                border: 0;
+            }
         }
-    }
 
-    .title {
-        padding-left: 10px;
-        color: #626d7a;
-        cursor: pointer;
-        font-size: 14px;
+        .title {
+            padding-left: 10px;
+            color: #626d7a;
+            cursor: pointer;
+            font-size: 14px;
+        }
+
+        &:hover {
+            background-color: var(--color-gray-hover);
+        }
     }
 }
