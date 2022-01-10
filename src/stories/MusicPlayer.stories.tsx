@@ -14,8 +14,8 @@ const Template: ComponentStory<typeof MusicPlayer> = (args) => (
     <MusicPlayer {...args} />
 );
 
-export const MusicPlayerActive = Template.bind({});
-MusicPlayerActive.args = {
+export const MusicPlayerComp = Template.bind({});
+MusicPlayerComp.args = {
     play: true,
     trackTitle: "hello",
     togglePlay: action("toggle play"),

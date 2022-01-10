@@ -11,6 +11,7 @@ export const Header: React.FC = () => {
     const [play, setPlay] = useState<boolean>(false);
 
     const togglePlay = () => setPlay(!play);
+
     return (
         <header className={styles.header}>
             <div className="container">
