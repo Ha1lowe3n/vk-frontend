@@ -139,7 +139,7 @@ Object {
           </div>
         </div>
         <div
-          style="border: 1px solid #d8dde3; background-color: rgb(216, 221, 227);"
+          style="border: 0.5px solid #d8dde3; background-color: rgb(216, 221, 227);"
         />
         <div
           class="box"
@@ -409,7 +409,7 @@ Object {
         </div>
       </div>
       <div
-        style="border: 1px solid #d8dde3; background-color: rgb(216, 221, 227);"
+        style="border: 0.5px solid #d8dde3; background-color: rgb(216, 221, 227);"
       />
       <div
         class="box"
