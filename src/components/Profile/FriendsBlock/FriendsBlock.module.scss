@@ -1,0 +1,10 @@
+.friendsBlock {
+    .box {
+        .friends {
+            display: flex;
+            flex-wrap: wrap;
+            padding: 6px 10px 8px;
+            justify-content: space-between;
+        }
+    }
+}

@@ -6,6 +6,7 @@ import { Header } from "../../components/Header/Header";
 import { Navbar } from "../../components/Navbar/Navbar";
 import { AvatarBlock } from "../../components/Profile/AvatarBlock/AvatarBlock";
 import { GiftsBlock } from "../../components/Profile/GiftsBlock/GiftsBlock";
+import { FriendsBlock } from "../../components/Profile/FriendsBlock/FriendsBlock";
 
 const ProfilePage: React.FC = () => {
     return (
@@ -17,6 +18,7 @@ const ProfilePage: React.FC = () => {
                     <div className={styles.column}>
                         <AvatarBlock />
                         <GiftsBlock />
+                        <FriendsBlock />
                     </div>
                 </div>
             </div>

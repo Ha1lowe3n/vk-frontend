@@ -7,7 +7,6 @@ Object {
     <div>
       <div
         class="whiteBlock avatarBlock"
-        style="padding: 15px 15px 6px 15px;"
       >
         <img
           alt="avatar"
@@ -123,7 +122,6 @@ Object {
   "container": <div>
     <div
       class="whiteBlock avatarBlock"
-      style="padding: 15px 15px 6px 15px;"
     >
       <img
         alt="avatar"
