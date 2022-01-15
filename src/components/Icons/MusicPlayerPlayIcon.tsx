@@ -3,6 +3,7 @@ import React from "react";
 const MusicPlayerPlayIcon: React.FC = () => {
     return (
         <svg
+            data-testid="MusicPlayerPlayIcon"
             width="24"
             height="24"
             viewBox="0 0 24 24"

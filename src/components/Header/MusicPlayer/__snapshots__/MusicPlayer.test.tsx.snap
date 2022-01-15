@@ -1,0 +1,407 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header snapshot with play false 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="wrapper"
+      >
+        <div
+          class="content"
+        >
+          <div
+            class="btns"
+          >
+            <button>
+              <svg
+                fill="none"
+                height="24"
+                viewBox="0 0 24 24"
+                width="24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M10 13.17v3.33a1 1 0 11-2 0v-9a1 1 0 012 0v3.33l8.15-4.66c.82-.48 1.85.11 1.85 1.06v9.54c0 .95-1.03 1.54-1.85 1.06z"
+                  fill="currentColor"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </button>
+            <button>
+              <svg
+                data-testid="MusicPlayerPlayIcon"
+                fill="none"
+                height="24"
+                viewBox="0 0 24 24"
+                width="24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M17.67 10.92c.82.49.82 1.67 0 2.16l-8.79 5.17c-.83.5-1.88-.1-1.88-1.08V6.83c0-.97 1.05-1.57 1.88-1.08l8.8 5.17z"
+                  fill="currentColor"
+                />
+              </svg>
+            </button>
+            <button>
+              <svg
+                fill="none"
+                height="24"
+                viewBox="0 0 24 24"
+                width="24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M14 10.83V7.5a1 1 0 112 0v9a1 1 0 01-2 0v-3.33l-8.15 4.66A1.23 1.23 0 014 16.77V7.23c0-.95 1.03-1.54 1.85-1.06z"
+                  fill="currentColor"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </button>
+          </div>
+          <div
+            class="title"
+          >
+            hello
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="wrapper"
+    >
+      <div
+        class="content"
+      >
+        <div
+          class="btns"
+        >
+          <button>
+            <svg
+              fill="none"
+              height="24"
+              viewBox="0 0 24 24"
+              width="24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M10 13.17v3.33a1 1 0 11-2 0v-9a1 1 0 012 0v3.33l8.15-4.66c.82-.48 1.85.11 1.85 1.06v9.54c0 .95-1.03 1.54-1.85 1.06z"
+                fill="currentColor"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </button>
+          <button>
+            <svg
+              data-testid="MusicPlayerPlayIcon"
+              fill="none"
+              height="24"
+              viewBox="0 0 24 24"
+              width="24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M17.67 10.92c.82.49.82 1.67 0 2.16l-8.79 5.17c-.83.5-1.88-.1-1.88-1.08V6.83c0-.97 1.05-1.57 1.88-1.08l8.8 5.17z"
+                fill="currentColor"
+              />
+            </svg>
+          </button>
+          <button>
+            <svg
+              fill="none"
+              height="24"
+              viewBox="0 0 24 24"
+              width="24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M14 10.83V7.5a1 1 0 112 0v9a1 1 0 01-2 0v-3.33l-8.15 4.66A1.23 1.23 0 014 16.77V7.23c0-.95 1.03-1.54 1.85-1.06z"
+                fill="currentColor"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </button>
+        </div>
+        <div
+          class="title"
+        >
+          hello
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Header snapshot with play true 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="wrapper"
+      >
+        <div
+          class="content"
+        >
+          <div
+            class="btns"
+          >
+            <button>
+              <svg
+                fill="none"
+                height="24"
+                viewBox="0 0 24 24"
+                width="24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M10 13.17v3.33a1 1 0 11-2 0v-9a1 1 0 012 0v3.33l8.15-4.66c.82-.48 1.85.11 1.85 1.06v9.54c0 .95-1.03 1.54-1.85 1.06z"
+                  fill="currentColor"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </button>
+            <button>
+              <svg
+                data-testid="MusicPlayerPauseIcon"
+                height="24"
+                viewBox="0 0 24 24"
+                width="24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <g
+                  fill="none"
+                  fill-rule="evenodd"
+                  id="pause_24__Page-2"
+                  stroke="none"
+                  stroke-width="1"
+                >
+                  <g
+                    id="pause_24__pause_24"
+                  >
+                    <path
+                      d="M0 0h24v24H0z"
+                      id="pause_24__Rectangle-737"
+                    />
+                    <path
+                      d="M6.79 5H8.7c.45 0 .61.05.78.13.16.1.29.22.38.38.08.17.13.33.13.78V17.7c0 .45-.05.61-.13.78a.91.91 0 01-.38.38c-.17.08-.33.13-.78.13H6.8c-.45 0-.61-.05-.78-.13a.91.91 0 01-.38-.38c-.08-.17-.13-.33-.13-.78V6.3c0-.45.05-.61.13-.78.1-.16.22-.29.38-.38.17-.08.33-.13.78-.13zm8 0h1.92c.45 0 .61.05.78.13.16.1.29.22.38.38.08.17.13.33.13.78V17.7c0 .45-.05.61-.13.78a.91.91 0 01-.38.38c-.17.08-.33.13-.78.13H14.8c-.45 0-.61-.05-.78-.13a.91.91 0 01-.38-.38c-.08-.17-.13-.33-.13-.78V6.3c0-.45.05-.61.13-.78.1-.16.22-.29.38-.38.17-.08.33-.13.78-.13z"
+                      fill="currentColor"
+                      id="pause_24__Mask"
+                    />
+                  </g>
+                </g>
+              </svg>
+            </button>
+            <button>
+              <svg
+                fill="none"
+                height="24"
+                viewBox="0 0 24 24"
+                width="24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M14 10.83V7.5a1 1 0 112 0v9a1 1 0 01-2 0v-3.33l-8.15 4.66A1.23 1.23 0 014 16.77V7.23c0-.95 1.03-1.54 1.85-1.06z"
+                  fill="currentColor"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </button>
+          </div>
+          <div
+            class="title"
+          >
+            hello
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="wrapper"
+    >
+      <div
+        class="content"
+      >
+        <div
+          class="btns"
+        >
+          <button>
+            <svg
+              fill="none"
+              height="24"
+              viewBox="0 0 24 24"
+              width="24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M10 13.17v3.33a1 1 0 11-2 0v-9a1 1 0 012 0v3.33l8.15-4.66c.82-.48 1.85.11 1.85 1.06v9.54c0 .95-1.03 1.54-1.85 1.06z"
+                fill="currentColor"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </button>
+          <button>
+            <svg
+              data-testid="MusicPlayerPauseIcon"
+              height="24"
+              viewBox="0 0 24 24"
+              width="24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <g
+                fill="none"
+                fill-rule="evenodd"
+                id="pause_24__Page-2"
+                stroke="none"
+                stroke-width="1"
+              >
+                <g
+                  id="pause_24__pause_24"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    id="pause_24__Rectangle-737"
+                  />
+                  <path
+                    d="M6.79 5H8.7c.45 0 .61.05.78.13.16.1.29.22.38.38.08.17.13.33.13.78V17.7c0 .45-.05.61-.13.78a.91.91 0 01-.38.38c-.17.08-.33.13-.78.13H6.8c-.45 0-.61-.05-.78-.13a.91.91 0 01-.38-.38c-.08-.17-.13-.33-.13-.78V6.3c0-.45.05-.61.13-.78.1-.16.22-.29.38-.38.17-.08.33-.13.78-.13zm8 0h1.92c.45 0 .61.05.78.13.16.1.29.22.38.38.08.17.13.33.13.78V17.7c0 .45-.05.61-.13.78a.91.91 0 01-.38.38c-.17.08-.33.13-.78.13H14.8c-.45 0-.61-.05-.78-.13a.91.91 0 01-.38-.38c-.08-.17-.13-.33-.13-.78V6.3c0-.45.05-.61.13-.78.1-.16.22-.29.38-.38.17-.08.33-.13.78-.13z"
+                    fill="currentColor"
+                    id="pause_24__Mask"
+                  />
+                </g>
+              </g>
+            </svg>
+          </button>
+          <button>
+            <svg
+              fill="none"
+              height="24"
+              viewBox="0 0 24 24"
+              width="24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M14 10.83V7.5a1 1 0 112 0v9a1 1 0 01-2 0v-3.33l-8.15 4.66A1.23 1.23 0 014 16.77V7.23c0-.95 1.03-1.54 1.85-1.06z"
+                fill="currentColor"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </button>
+        </div>
+        <div
+          class="title"
+        >
+          hello
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

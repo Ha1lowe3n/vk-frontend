@@ -9,7 +9,7 @@ import {
     MusicPlayerPlayIcon,
 } from "../../Icons";
 
-interface MusicPlayerPropsType {
+export interface MusicPlayerPropsType {
     play: boolean;
     trackTitle: string;
     togglePlay: () => void;

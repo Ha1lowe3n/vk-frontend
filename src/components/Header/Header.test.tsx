@@ -1,4 +1,4 @@
-import { render, screen } from "@testing-library/react";
+import { fireEvent, render, screen } from "@testing-library/react";
 import { Header } from "./Header";
 
 it("render header component", () => {
@@ -12,4 +12,17 @@ it("render header component", () => {
 it("Header snapshot", () => {
     const view = render(<Header />);
     expect(view).toMatchSnapshot();
+});
+
+describe("events", () => {
+    it("music player button click", () => {
+        const togglePlay = jest.fn();
+        render(<Header />);
+        const btn = screen.getByTestId("MusicPlayerPlayIcon");
+        btn.onclick = togglePlay;
+        expect(btn).toBeInTheDocument();
+        fireEvent.click(btn);
+        expect(screen.getByTestId("MusicPlayerPauseIcon")).toBeInTheDocument();
+        expect(togglePlay).toBeCalledTimes(1);
+    });
 });

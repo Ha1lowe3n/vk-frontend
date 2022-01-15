@@ -115,6 +115,7 @@ Object {
                     </button>
                     <button>
                       <svg
+                        data-testid="MusicPlayerPlayIcon"
                         fill="none"
                         height="24"
                         viewBox="0 0 24 24"
@@ -305,6 +306,7 @@ Object {
                   </button>
                   <button>
                     <svg
+                      data-testid="MusicPlayerPlayIcon"
                       fill="none"
                       height="24"
                       viewBox="0 0 24 24"
