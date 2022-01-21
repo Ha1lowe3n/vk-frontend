@@ -10,6 +10,7 @@ import { FriendsBlock } from "../../components/Profile/FriendsBlock/FriendsBlock
 import { GroupsBlock } from "../../components/Profile/GroupsBlock/GroupsBlock";
 import { Divider } from "../../components/WhiteBlock/Divider/Divider";
 import { WhiteBlock } from "../../components/WhiteBlock/WhiteBlock";
+import { VideoBlock } from "../../components/Profile/VideoBlock/VideoBlock";
 
 const ProfilePage: React.FC = () => {
     return (
@@ -24,6 +25,8 @@ const ProfilePage: React.FC = () => {
                         <FriendsBlock />
                         <WhiteBlock className="page_block">
                             <GroupsBlock />
+                            <Divider />
+                            <VideoBlock />
                             <Divider />
                         </WhiteBlock>
                     </div>

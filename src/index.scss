@@ -33,7 +33,9 @@ input:focus {
 }
 
 a {
-    text-decoration: none;
+    &:hover {
+        text-decoration: underline;
+    }
 }
 
 .container {

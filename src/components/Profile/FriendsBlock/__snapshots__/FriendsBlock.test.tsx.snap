@@ -9,279 +9,6 @@ Object {
         class="whiteBlock page_block friendsBlock"
       >
         <div
-          class="box"
-        >
-          <div
-            class="whiteBlockInfo"
-          >
-            <span
-              class="title"
-            >
-              Friends
-            </span>
-            <span
-              class="count"
-            >
-              100
-            </span>
-          </div>
-          <div
-            class="friends"
-          >
-            <div
-              class="person"
-            >
-              <a
-                class="imgRow"
-                href="#"
-              >
-                <img
-                  alt="person avatar"
-                  src="https://sun1-55.userapi.com/s/v1/ig2/4AmTw3rdunMJaSLZppSACbdzwsYy-w5fhHszb-fvHFLvv9ea2fe5yrcJE8K_3BsCsJv5MAlWYJRwyIpsB_5SCN9J.jpg?size=50x50&quality=96&crop=0,145,989,989&ava=1"
-                />
-              </a>
-              <a
-                href="#"
-              >
-                Vladilen
-              </a>
-            </div>
-            <div
-              class="person"
-            >
-              <a
-                class="imgRow"
-                href="#"
-              >
-                <img
-                  alt="person avatar"
-                  src="https://sun1-55.userapi.com/s/v1/ig2/4AmTw3rdunMJaSLZppSACbdzwsYy-w5fhHszb-fvHFLvv9ea2fe5yrcJE8K_3BsCsJv5MAlWYJRwyIpsB_5SCN9J.jpg?size=50x50&quality=96&crop=0,145,989,989&ava=1"
-                />
-              </a>
-              <a
-                href="#"
-              >
-                Vladilen
-              </a>
-            </div>
-            <div
-              class="person"
-            >
-              <a
-                class="imgRow"
-                href="#"
-              >
-                <img
-                  alt="person avatar"
-                  src="https://sun1-55.userapi.com/s/v1/ig2/4AmTw3rdunMJaSLZppSACbdzwsYy-w5fhHszb-fvHFLvv9ea2fe5yrcJE8K_3BsCsJv5MAlWYJRwyIpsB_5SCN9J.jpg?size=50x50&quality=96&crop=0,145,989,989&ava=1"
-                />
-              </a>
-              <a
-                href="#"
-              >
-                Vladilen
-              </a>
-            </div>
-            <div
-              class="person"
-            >
-              <a
-                class="imgRow"
-                href="#"
-              >
-                <img
-                  alt="person avatar"
-                  src="https://sun1-55.userapi.com/s/v1/ig2/4AmTw3rdunMJaSLZppSACbdzwsYy-w5fhHszb-fvHFLvv9ea2fe5yrcJE8K_3BsCsJv5MAlWYJRwyIpsB_5SCN9J.jpg?size=50x50&quality=96&crop=0,145,989,989&ava=1"
-                />
-              </a>
-              <a
-                href="#"
-              >
-                Vladilen
-              </a>
-            </div>
-            <div
-              class="person"
-            >
-              <a
-                class="imgRow"
-                href="#"
-              >
-                <img
-                  alt="person avatar"
-                  src="https://sun1-55.userapi.com/s/v1/ig2/4AmTw3rdunMJaSLZppSACbdzwsYy-w5fhHszb-fvHFLvv9ea2fe5yrcJE8K_3BsCsJv5MAlWYJRwyIpsB_5SCN9J.jpg?size=50x50&quality=96&crop=0,145,989,989&ava=1"
-                />
-              </a>
-              <a
-                href="#"
-              >
-                Vladilen
-              </a>
-            </div>
-            <div
-              class="person"
-            >
-              <a
-                class="imgRow"
-                href="#"
-              >
-                <img
-                  alt="person avatar"
-                  src="https://sun1-55.userapi.com/s/v1/ig2/4AmTw3rdunMJaSLZppSACbdzwsYy-w5fhHszb-fvHFLvv9ea2fe5yrcJE8K_3BsCsJv5MAlWYJRwyIpsB_5SCN9J.jpg?size=50x50&quality=96&crop=0,145,989,989&ava=1"
-                />
-              </a>
-              <a
-                href="#"
-              >
-                Vladilen
-              </a>
-            </div>
-          </div>
-        </div>
-        <div
-          style="border: 0.5px solid #d8dde3; background-color: rgb(216, 221, 227);"
-        />
-        <div
-          class="box"
-        >
-          <div
-            class="whiteBlockInfo"
-          >
-            <span
-              class="title"
-            >
-              Friends online
-            </span>
-            <span
-              class="count"
-            >
-              15
-            </span>
-          </div>
-          <div
-            class="friends"
-          >
-            <div
-              class="person"
-            >
-              <a
-                class="imgRow"
-                href="#"
-              >
-                <img
-                  alt="person avatar"
-                  src="https://sun1-55.userapi.com/s/v1/ig2/4AmTw3rdunMJaSLZppSACbdzwsYy-w5fhHszb-fvHFLvv9ea2fe5yrcJE8K_3BsCsJv5MAlWYJRwyIpsB_5SCN9J.jpg?size=50x50&quality=96&crop=0,145,989,989&ava=1"
-                />
-              </a>
-              <a
-                href="#"
-              >
-                Vladilen
-              </a>
-            </div>
-            <div
-              class="person"
-            >
-              <a
-                class="imgRow"
-                href="#"
-              >
-                <img
-                  alt="person avatar"
-                  src="https://sun1-55.userapi.com/s/v1/ig2/4AmTw3rdunMJaSLZppSACbdzwsYy-w5fhHszb-fvHFLvv9ea2fe5yrcJE8K_3BsCsJv5MAlWYJRwyIpsB_5SCN9J.jpg?size=50x50&quality=96&crop=0,145,989,989&ava=1"
-                />
-              </a>
-              <a
-                href="#"
-              >
-                Vladilen
-              </a>
-            </div>
-            <div
-              class="person"
-            >
-              <a
-                class="imgRow"
-                href="#"
-              >
-                <img
-                  alt="person avatar"
-                  src="https://sun1-55.userapi.com/s/v1/ig2/4AmTw3rdunMJaSLZppSACbdzwsYy-w5fhHszb-fvHFLvv9ea2fe5yrcJE8K_3BsCsJv5MAlWYJRwyIpsB_5SCN9J.jpg?size=50x50&quality=96&crop=0,145,989,989&ava=1"
-                />
-              </a>
-              <a
-                href="#"
-              >
-                Vladilen
-              </a>
-            </div>
-            <div
-              class="person"
-            >
-              <a
-                class="imgRow"
-                href="#"
-              >
-                <img
-                  alt="person avatar"
-                  src="https://sun1-55.userapi.com/s/v1/ig2/4AmTw3rdunMJaSLZppSACbdzwsYy-w5fhHszb-fvHFLvv9ea2fe5yrcJE8K_3BsCsJv5MAlWYJRwyIpsB_5SCN9J.jpg?size=50x50&quality=96&crop=0,145,989,989&ava=1"
-                />
-              </a>
-              <a
-                href="#"
-              >
-                Vladilen
-              </a>
-            </div>
-            <div
-              class="person"
-            >
-              <a
-                class="imgRow"
-                href="#"
-              >
-                <img
-                  alt="person avatar"
-                  src="https://sun1-55.userapi.com/s/v1/ig2/4AmTw3rdunMJaSLZppSACbdzwsYy-w5fhHszb-fvHFLvv9ea2fe5yrcJE8K_3BsCsJv5MAlWYJRwyIpsB_5SCN9J.jpg?size=50x50&quality=96&crop=0,145,989,989&ava=1"
-                />
-              </a>
-              <a
-                href="#"
-              >
-                Vladilen
-              </a>
-            </div>
-            <div
-              class="person"
-            >
-              <a
-                class="imgRow"
-                href="#"
-              >
-                <img
-                  alt="person avatar"
-                  src="https://sun1-55.userapi.com/s/v1/ig2/4AmTw3rdunMJaSLZppSACbdzwsYy-w5fhHszb-fvHFLvv9ea2fe5yrcJE8K_3BsCsJv5MAlWYJRwyIpsB_5SCN9J.jpg?size=50x50&quality=96&crop=0,145,989,989&ava=1"
-                />
-              </a>
-              <a
-                href="#"
-              >
-                Vladilen
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </body>,
-  "container": <div>
-    <div
-      class="whiteBlock page_block friendsBlock"
-    >
-      <div
-        class="box"
-      >
-        <div
           class="whiteBlockInfo"
         >
           <span
@@ -311,6 +38,7 @@ Object {
               />
             </a>
             <a
+              class="link_text"
               href="#"
             >
               Vladilen
@@ -329,6 +57,7 @@ Object {
               />
             </a>
             <a
+              class="link_text"
               href="#"
             >
               Vladilen
@@ -347,6 +76,7 @@ Object {
               />
             </a>
             <a
+              class="link_text"
               href="#"
             >
               Vladilen
@@ -365,6 +95,7 @@ Object {
               />
             </a>
             <a
+              class="link_text"
               href="#"
             >
               Vladilen
@@ -383,6 +114,7 @@ Object {
               />
             </a>
             <a
+              class="link_text"
               href="#"
             >
               Vladilen
@@ -401,19 +133,16 @@ Object {
               />
             </a>
             <a
+              class="link_text"
               href="#"
             >
               Vladilen
             </a>
           </div>
         </div>
-      </div>
-      <div
-        style="border: 0.5px solid #d8dde3; background-color: rgb(216, 221, 227);"
-      />
-      <div
-        class="box"
-      >
+        <div
+          style="border: 0.5px solid #d8dde3; background-color: rgb(216, 221, 227);"
+        />
         <div
           class="whiteBlockInfo"
         >
@@ -444,6 +173,7 @@ Object {
               />
             </a>
             <a
+              class="link_text"
               href="#"
             >
               Vladilen
@@ -462,6 +192,7 @@ Object {
               />
             </a>
             <a
+              class="link_text"
               href="#"
             >
               Vladilen
@@ -480,6 +211,7 @@ Object {
               />
             </a>
             <a
+              class="link_text"
               href="#"
             >
               Vladilen
@@ -498,6 +230,7 @@ Object {
               />
             </a>
             <a
+              class="link_text"
               href="#"
             >
               Vladilen
@@ -516,6 +249,7 @@ Object {
               />
             </a>
             <a
+              class="link_text"
               href="#"
             >
               Vladilen
@@ -534,11 +268,285 @@ Object {
               />
             </a>
             <a
+              class="link_text"
               href="#"
             >
               Vladilen
             </a>
           </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="whiteBlock page_block friendsBlock"
+    >
+      <div
+        class="whiteBlockInfo"
+      >
+        <span
+          class="title"
+        >
+          Friends
+        </span>
+        <span
+          class="count"
+        >
+          100
+        </span>
+      </div>
+      <div
+        class="friends"
+      >
+        <div
+          class="person"
+        >
+          <a
+            class="imgRow"
+            href="#"
+          >
+            <img
+              alt="person avatar"
+              src="https://sun1-55.userapi.com/s/v1/ig2/4AmTw3rdunMJaSLZppSACbdzwsYy-w5fhHszb-fvHFLvv9ea2fe5yrcJE8K_3BsCsJv5MAlWYJRwyIpsB_5SCN9J.jpg?size=50x50&quality=96&crop=0,145,989,989&ava=1"
+            />
+          </a>
+          <a
+            class="link_text"
+            href="#"
+          >
+            Vladilen
+          </a>
+        </div>
+        <div
+          class="person"
+        >
+          <a
+            class="imgRow"
+            href="#"
+          >
+            <img
+              alt="person avatar"
+              src="https://sun1-55.userapi.com/s/v1/ig2/4AmTw3rdunMJaSLZppSACbdzwsYy-w5fhHszb-fvHFLvv9ea2fe5yrcJE8K_3BsCsJv5MAlWYJRwyIpsB_5SCN9J.jpg?size=50x50&quality=96&crop=0,145,989,989&ava=1"
+            />
+          </a>
+          <a
+            class="link_text"
+            href="#"
+          >
+            Vladilen
+          </a>
+        </div>
+        <div
+          class="person"
+        >
+          <a
+            class="imgRow"
+            href="#"
+          >
+            <img
+              alt="person avatar"
+              src="https://sun1-55.userapi.com/s/v1/ig2/4AmTw3rdunMJaSLZppSACbdzwsYy-w5fhHszb-fvHFLvv9ea2fe5yrcJE8K_3BsCsJv5MAlWYJRwyIpsB_5SCN9J.jpg?size=50x50&quality=96&crop=0,145,989,989&ava=1"
+            />
+          </a>
+          <a
+            class="link_text"
+            href="#"
+          >
+            Vladilen
+          </a>
+        </div>
+        <div
+          class="person"
+        >
+          <a
+            class="imgRow"
+            href="#"
+          >
+            <img
+              alt="person avatar"
+              src="https://sun1-55.userapi.com/s/v1/ig2/4AmTw3rdunMJaSLZppSACbdzwsYy-w5fhHszb-fvHFLvv9ea2fe5yrcJE8K_3BsCsJv5MAlWYJRwyIpsB_5SCN9J.jpg?size=50x50&quality=96&crop=0,145,989,989&ava=1"
+            />
+          </a>
+          <a
+            class="link_text"
+            href="#"
+          >
+            Vladilen
+          </a>
+        </div>
+        <div
+          class="person"
+        >
+          <a
+            class="imgRow"
+            href="#"
+          >
+            <img
+              alt="person avatar"
+              src="https://sun1-55.userapi.com/s/v1/ig2/4AmTw3rdunMJaSLZppSACbdzwsYy-w5fhHszb-fvHFLvv9ea2fe5yrcJE8K_3BsCsJv5MAlWYJRwyIpsB_5SCN9J.jpg?size=50x50&quality=96&crop=0,145,989,989&ava=1"
+            />
+          </a>
+          <a
+            class="link_text"
+            href="#"
+          >
+            Vladilen
+          </a>
+        </div>
+        <div
+          class="person"
+        >
+          <a
+            class="imgRow"
+            href="#"
+          >
+            <img
+              alt="person avatar"
+              src="https://sun1-55.userapi.com/s/v1/ig2/4AmTw3rdunMJaSLZppSACbdzwsYy-w5fhHszb-fvHFLvv9ea2fe5yrcJE8K_3BsCsJv5MAlWYJRwyIpsB_5SCN9J.jpg?size=50x50&quality=96&crop=0,145,989,989&ava=1"
+            />
+          </a>
+          <a
+            class="link_text"
+            href="#"
+          >
+            Vladilen
+          </a>
+        </div>
+      </div>
+      <div
+        style="border: 0.5px solid #d8dde3; background-color: rgb(216, 221, 227);"
+      />
+      <div
+        class="whiteBlockInfo"
+      >
+        <span
+          class="title"
+        >
+          Friends online
+        </span>
+        <span
+          class="count"
+        >
+          15
+        </span>
+      </div>
+      <div
+        class="friends"
+      >
+        <div
+          class="person"
+        >
+          <a
+            class="imgRow"
+            href="#"
+          >
+            <img
+              alt="person avatar"
+              src="https://sun1-55.userapi.com/s/v1/ig2/4AmTw3rdunMJaSLZppSACbdzwsYy-w5fhHszb-fvHFLvv9ea2fe5yrcJE8K_3BsCsJv5MAlWYJRwyIpsB_5SCN9J.jpg?size=50x50&quality=96&crop=0,145,989,989&ava=1"
+            />
+          </a>
+          <a
+            class="link_text"
+            href="#"
+          >
+            Vladilen
+          </a>
+        </div>
+        <div
+          class="person"
+        >
+          <a
+            class="imgRow"
+            href="#"
+          >
+            <img
+              alt="person avatar"
+              src="https://sun1-55.userapi.com/s/v1/ig2/4AmTw3rdunMJaSLZppSACbdzwsYy-w5fhHszb-fvHFLvv9ea2fe5yrcJE8K_3BsCsJv5MAlWYJRwyIpsB_5SCN9J.jpg?size=50x50&quality=96&crop=0,145,989,989&ava=1"
+            />
+          </a>
+          <a
+            class="link_text"
+            href="#"
+          >
+            Vladilen
+          </a>
+        </div>
+        <div
+          class="person"
+        >
+          <a
+            class="imgRow"
+            href="#"
+          >
+            <img
+              alt="person avatar"
+              src="https://sun1-55.userapi.com/s/v1/ig2/4AmTw3rdunMJaSLZppSACbdzwsYy-w5fhHszb-fvHFLvv9ea2fe5yrcJE8K_3BsCsJv5MAlWYJRwyIpsB_5SCN9J.jpg?size=50x50&quality=96&crop=0,145,989,989&ava=1"
+            />
+          </a>
+          <a
+            class="link_text"
+            href="#"
+          >
+            Vladilen
+          </a>
+        </div>
+        <div
+          class="person"
+        >
+          <a
+            class="imgRow"
+            href="#"
+          >
+            <img
+              alt="person avatar"
+              src="https://sun1-55.userapi.com/s/v1/ig2/4AmTw3rdunMJaSLZppSACbdzwsYy-w5fhHszb-fvHFLvv9ea2fe5yrcJE8K_3BsCsJv5MAlWYJRwyIpsB_5SCN9J.jpg?size=50x50&quality=96&crop=0,145,989,989&ava=1"
+            />
+          </a>
+          <a
+            class="link_text"
+            href="#"
+          >
+            Vladilen
+          </a>
+        </div>
+        <div
+          class="person"
+        >
+          <a
+            class="imgRow"
+            href="#"
+          >
+            <img
+              alt="person avatar"
+              src="https://sun1-55.userapi.com/s/v1/ig2/4AmTw3rdunMJaSLZppSACbdzwsYy-w5fhHszb-fvHFLvv9ea2fe5yrcJE8K_3BsCsJv5MAlWYJRwyIpsB_5SCN9J.jpg?size=50x50&quality=96&crop=0,145,989,989&ava=1"
+            />
+          </a>
+          <a
+            class="link_text"
+            href="#"
+          >
+            Vladilen
+          </a>
+        </div>
+        <div
+          class="person"
+        >
+          <a
+            class="imgRow"
+            href="#"
+          >
+            <img
+              alt="person avatar"
+              src="https://sun1-55.userapi.com/s/v1/ig2/4AmTw3rdunMJaSLZppSACbdzwsYy-w5fhHszb-fvHFLvv9ea2fe5yrcJE8K_3BsCsJv5MAlWYJRwyIpsB_5SCN9J.jpg?size=50x50&quality=96&crop=0,145,989,989&ava=1"
+            />
+          </a>
+          <a
+            class="link_text"
+            href="#"
+          >
+            Vladilen
+          </a>
         </div>
       </div>
     </div>

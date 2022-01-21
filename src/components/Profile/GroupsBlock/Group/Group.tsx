@@ -23,7 +23,9 @@ export const Group: React.FC<GroupProps> = ({
 
             <div className={styles.text}>
                 <span className={styles.title}>
-                    <a href="#">{title}</a>
+                    <a href="#" className="link_text">
+                        {title}
+                    </a>
                 </span>
                 <span className={styles.description}>{description}</span>
             </div>

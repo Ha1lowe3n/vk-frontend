@@ -37,22 +37,20 @@ const dataPersons = [
 export const FriendsBlock: React.FC = () => {
     return (
         <WhiteBlock className={clsx("page_block", styles.friendsBlock)}>
-            <div className={styles.box}>
-                <WhiteBlockInfo title={"Friends"} count={100} />
-                <div className={styles.friends}>
-                    {dataPersons.map((person, i) => (
-                        <Person key={i} src={person.src} name={person.name} />
-                    ))}
-                </div>
+            <WhiteBlockInfo title={"Friends"} count={100} />
+            <div className={styles.friends}>
+                {dataPersons.map((person, i) => (
+                    <Person key={i} src={person.src} name={person.name} />
+                ))}
             </div>
+
             <Divider />
-            <div className={styles.box}>
-                <WhiteBlockInfo title={"Friends online"} count={15} />
-                <div className={styles.friends}>
-                    {dataPersons.map((person, i) => (
-                        <Person key={i} src={person.src} name={person.name} />
-                    ))}
-                </div>
+
+            <WhiteBlockInfo title={"Friends online"} count={15} />
+            <div className={styles.friends}>
+                {dataPersons.map((person, i) => (
+                    <Person key={i} src={person.src} name={person.name} />
+                ))}
             </div>
         </WhiteBlock>
     );

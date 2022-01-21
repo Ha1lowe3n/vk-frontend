@@ -43,6 +43,7 @@ Object {
                 class="title"
               >
                 <a
+                  class="link_text"
                   href="#"
                 >
                   Vladilen
@@ -74,6 +75,7 @@ Object {
                 class="title"
               >
                 <a
+                  class="link_text"
                   href="#"
                 >
                   Vladilen
@@ -105,6 +107,7 @@ Object {
                 class="title"
               >
                 <a
+                  class="link_text"
                   href="#"
                 >
                   Vladilen
@@ -136,6 +139,7 @@ Object {
                 class="title"
               >
                 <a
+                  class="link_text"
                   href="#"
                 >
                   Vladilen
@@ -167,6 +171,7 @@ Object {
                 class="title"
               >
                 <a
+                  class="link_text"
                   href="#"
                 >
                   Vladilen
@@ -222,6 +227,7 @@ Object {
               class="title"
             >
               <a
+                class="link_text"
                 href="#"
               >
                 Vladilen
@@ -253,6 +259,7 @@ Object {
               class="title"
             >
               <a
+                class="link_text"
                 href="#"
               >
                 Vladilen
@@ -284,6 +291,7 @@ Object {
               class="title"
             >
               <a
+                class="link_text"
                 href="#"
               >
                 Vladilen
@@ -315,6 +323,7 @@ Object {
               class="title"
             >
               <a
+                class="link_text"
                 href="#"
               >
                 Vladilen
@@ -346,6 +355,7 @@ Object {
               class="title"
             >
               <a
+                class="link_text"
                 href="#"
               >
                 Vladilen

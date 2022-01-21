@@ -14,7 +14,9 @@ export const Person: React.FC<PersonProps> = ({ src, name }) => {
                 <img src={src} alt="person avatar" />
             </a>
 
-            <a href="#">{name}</a>
+            <a href="#" className={"link_text"}>
+                {name}
+            </a>
         </div>
     );
 };
