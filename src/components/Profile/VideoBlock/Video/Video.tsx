@@ -14,7 +14,10 @@ export const Video: React.FC = () => {
                             "url('https://i.imgur.com/FDvVliP.jpg')",
                     }}
                 >
-                    <div className={styles.videoPlayIcon}></div>
+                    <div
+                        className={styles.videoPlayIcon}
+                        data-testid="videoPlayIcon"
+                    ></div>
                 </div>
             </a>
 
