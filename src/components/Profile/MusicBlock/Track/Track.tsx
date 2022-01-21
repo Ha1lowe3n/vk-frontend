@@ -3,7 +3,7 @@ import React, { useState } from "react";
 
 import styles from "./Track.module.scss";
 
-interface TrackProps {
+export interface TrackProps {
     titleTrack: string;
     titleGroup: string;
     urlImg: string;
@@ -57,6 +57,7 @@ export const Track: React.FC<TrackProps> = ({
                 styles.track,
                 (showPlayIcon || currentTrack) && styles.gray
             )}
+            data-testid="track"
             onMouseEnter={onMouseEnter}
             onMouseLeave={onMouseLeave}
             onClick={togglePlay}
