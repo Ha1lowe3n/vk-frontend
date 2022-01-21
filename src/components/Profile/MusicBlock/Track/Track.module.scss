@@ -1,0 +1,68 @@
+.track {
+    padding: 3px 0;
+    height: 54px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    border-radius: 4px;
+
+    .trackImg {
+        position: relative;
+        border-radius: 4px;
+        background: #001c3d14;
+        background-size: cover;
+        width: 40px;
+        height: 40px;
+        margin-left: 4px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        .playIcon {
+            z-index: 2;
+            background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20width%3D%2224%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20fill%3D%22none%22%20fill-rule%3D%22evenodd%22%3E%3Ccircle%20cx%3D%2212%22%20cy%3D%2212%22%20fill%3D%22%23fff%22%20r%3D%2212%22%2F%3E%3Cpath%20d%3D%22m9.84335571%2016.7896383c-.4657725.2989597-.84335571.0960877-.84335571-.4632481v-8.668898c0-.55480454.37902442-.76128273.84335571-.46324812l6.88979529%204.42226822c.3230368.2073436.3268456.5410694%200%20.7508578z%22%20fill%3D%22%23222%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E");
+            background-repeat: no-repeat;
+            background-position: center;
+            width: 40px;
+            height: 40px;
+        }
+
+        .pauseIcon {
+            z-index: 2;
+            background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20width%3D%2224%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20fill%3D%22none%22%20fill-rule%3D%22evenodd%22%3E%3Ccircle%20cx%3D%2212%22%20cy%3D%2212%22%20fill%3D%22%23fff%22%20r%3D%2212%22%2F%3E%3Cpath%20d%3D%22m8%207.59559822c0-.32893981.27685547-.59559822.60709476-.59559822h1.78581044c.3352892%200%20.6070948.26747584.6070948.59559822v8.80880358c0%20.3289398-.2768555.5955982-.6070948.5955982h-1.78581044c-.33528918%200-.60709476-.2674758-.60709476-.5955982zm5%200c0-.32893981.2768555-.59559822.6070948-.59559822h1.7858104c.3352892%200%20.6070948.26747584.6070948.59559822v8.80880358c0%20.3289398-.2768555.5955982-.6070948.5955982h-1.7858104c-.3352892%200-.6070948-.2674758-.6070948-.5955982z%22%20fill%3D%22%23222%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E");
+            background-repeat: no-repeat;
+            background-position: center;
+            width: 40px;
+            height: 40px;
+        }
+    }
+
+    .trackInfo {
+        display: flex;
+        flex-direction: column;
+        margin-left: 10px;
+
+        .titleTrack {
+            margin-bottom: 2px;
+            color: #000000;
+            font-weight: 500;
+        }
+
+        .titleGroup {
+            color: #818c99;
+        }
+    }
+}
+
+.gray {
+    background-color: #f5f6f8;
+}
+
+.darkImg {
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: inherit;
+}

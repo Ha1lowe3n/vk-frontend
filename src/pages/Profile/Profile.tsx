@@ -11,6 +11,7 @@ import { GroupsBlock } from "../../components/Profile/GroupsBlock/GroupsBlock";
 import { Divider } from "../../components/WhiteBlock/Divider/Divider";
 import { WhiteBlock } from "../../components/WhiteBlock/WhiteBlock";
 import { VideoBlock } from "../../components/Profile/VideoBlock/VideoBlock";
+import { MusicBlock } from "../../components/Profile/MusicBlock/MusicBlock";
 
 const ProfilePage: React.FC = () => {
     return (
@@ -28,6 +29,7 @@ const ProfilePage: React.FC = () => {
                             <Divider />
                             <VideoBlock />
                             <Divider />
+                            <MusicBlock />
                         </WhiteBlock>
                     </div>
                 </div>
